@@ -8,6 +8,12 @@ Composer package that provides Artisan commands for common Git synchronization w
 composer require alanmjc/laravel-git-admin
 ```
 
+Compatibility:
+
+- Laravel 8.83+
+- Laravel 9, 10, 11, and 12
+- PHP 8.0+
+
 Laravel package auto-discovery registers the provider automatically.
 
 ## Commands
