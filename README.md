@@ -5,7 +5,7 @@ Composer package that provides Artisan commands for common Git synchronization w
 ## Installation
 
 ```bash
-composer require alanmjc/laravel-git-admin
+composer require alanmjc/laravel-git-admin:^0.1.0
 ```
 
 Compatibility:
